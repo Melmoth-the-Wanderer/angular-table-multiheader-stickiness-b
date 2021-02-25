@@ -8,6 +8,11 @@ table {
   width: 800px;
 }
 
+td, th {
+  border-right: 1px solid #e0e0e0;
+  padding: 4px !important;
+}
+
 td.mat-column-star {
   width: 20px;
   padding-right: 8px;
